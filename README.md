@@ -17,7 +17,6 @@ O **Projeto de Aprendizado em PHP** é um repositório dedicado à minha jornada
 - **Estruturas de Controle**: Explora as estruturas condicionais (if, else, elseif) e a declaração switch em PHP.
 - **Estruturas de Repetição**: Introduz loops como for, while e foreach, permitindo iterações em PHP.
 
-- **I
 
 ## Autor
 Este é um projeto pessoal de estudos em PHP, desenvolvido de forma autodidata 📚.
