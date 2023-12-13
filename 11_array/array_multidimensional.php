@@ -1,5 +1,5 @@
 <?php
-// array multidimensional
+// array multidimensional: arrays aninhados
 
 $arr = [
      [1,2,3],
