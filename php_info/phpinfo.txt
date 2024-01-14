@@ -1,0 +1,5 @@
+// método antigo de se chamar dentro do html
+<?= $nome; ?>
+
+// novo método
+<?php echo $nome; ?>
