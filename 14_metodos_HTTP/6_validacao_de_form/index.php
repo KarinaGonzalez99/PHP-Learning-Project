@@ -46,7 +46,7 @@ if(count($_POST) > 0){
                <input type="password" name="senha" placeholder="Digite a sua senha">
           </div>
           <div>
-               <input type="password" name="senha" placeholder="Confirme a sua senha">
+               <input type="password" name="confirma" placeholder="Confirme a sua senha">
           </div>
           <div>
                <input type="submit" value="Enviar">
