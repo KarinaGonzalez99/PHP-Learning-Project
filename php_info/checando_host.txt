@@ -1,0 +1,14 @@
+// verificar as portas abertas
+ss -tuln
+
+//verificar qual processo esta usando a porta
+sudo lsof -i :8000
+
+// fechar uma porta
+sudo kill -9 PID
+
+//fechar a porta no terminal
+CRTRL + C
+
+// para a porta
+CRTRL + Z
